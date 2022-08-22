@@ -1,0 +1,25 @@
+coments:
+    css: 'div.alzwoclg div.bdao358l div div div.hf30pyar div.k0kqjr44'
+    xpath: null
+    type: Text
+    children:
+        user:
+            css: 'div.dc62g630 div.mfclru0v div.kgnml90y span.fxk3tzhb span.gvxzyvdx'
+            xpath: null
+            multiple: true
+            type: Text
+        user_visual:
+            css: 'div.dc62g630 > div.rt34pxt2.nu7423ey span.gvxzyvdx'
+            xpath: null
+            multiple: true
+            type: Text
+        text:
+            css: 'div.dc62g630 div.mfclru0v div.kgnml90y span.gvxzyvdx div.l7ghb35v > div:nth-of-type(1)'
+            xpath: null
+            multiple: true
+            type: Text
+        text_visual:
+            css: 'div.dc62g630 > div.kgnml90y span.gvxzyvdx div.m8h3af8h > div'
+            xpath: null
+            multiple: true
+            type: Text
